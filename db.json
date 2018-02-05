@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "recipes": [
     {
   "name": "Spicy Thai Basil Chicken ",
@@ -46,5 +47,8 @@
   ]
 }
   ],
+=======
+  "recipes": [],
+>>>>>>> 10266f2aab617c02e5106332ac7cb177f6db5ba2
   "shoppinList": []
 }
