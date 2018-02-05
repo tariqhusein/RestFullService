@@ -29,6 +29,21 @@
       "amount": 5
     }
   ]
+},
+{
+  "name": "Curried Coconut Chicken",
+  "discription": "Curried chicken simmered in coconut milk and tomatoes makes for a mouthwatering hint of the tropics! Goes great with rice and vegetables",
+  "picPath": "http://images.media-allrecipes.com/userphotos/560x315/3591067.jpg",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": 5
+    },
+    {
+      "name": "Fries",
+      "amount": 5
+    }
+  ]
 }
   ],
   "shoppinList": []
