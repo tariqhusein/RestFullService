@@ -1,4 +1,35 @@
 {
-  "recipes": [],
+  "recipes": [
+    {
+  "name": "Spicy Thai Basil Chicken ",
+  "discription": "My version of this classic Thai dish has spectacular taste even with regular basil instead of Thai or holy basil. The sauce actually acts like a glaze as the chicken mixture cooks over high heat. The recipe works best if you chop or grind your own chicken and have all ingredients prepped before you start cooking.\"",
+  "picPath": "http://images.media-allrecipes.com/userphotos/560x315/4507925.jpg",
+  "ingredients": [
+    {
+      "name": "Meat",
+      "amount": 5
+    },
+    {
+      "name": "blahblah",
+      "amount": 12
+    }
+  ]
+},
+{
+  "name": "Curried Coconut Chicken",
+  "discription": "Curried chicken simmered in coconut milk and tomatoes makes for a mouthwatering hint of the tropics! Goes great with rice and vegetables",
+  "picPath": "http://images.media-allrecipes.com/userphotos/560x315/3591067.jpg",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": 5
+    },
+    {
+      "name": "Fries",
+      "amount": 5
+    }
+  ]
+}
+  ],
   "shoppinList": []
 }
